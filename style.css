@@ -22,23 +22,23 @@
     font-size: 20px;
 }
 
-.escola-imagem{
+.soja-imagem{
     width: 25%;
 }
 
-.escola{
+.soja{
     background-image: linear-gradient(#9df5cc,#03f769);
     color:rgb(9, 9, 9);
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 10px 0;
 }
 
-.escola-div-conteudo{
+.soja-div-conteudo{
     width: 35%;
 }
-.escola-titulo{
+.soja-titulo{
     padding: 24px 0;
 }
 
