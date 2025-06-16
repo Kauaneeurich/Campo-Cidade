@@ -4,7 +4,7 @@
 }
 
 .cabecalho {
-    background-color: #57ef82;
+    background-color: #ebc91c;
     color: rgb(4, 4, 4);
     display: flex;
     justify-content: space-around;
@@ -27,7 +27,7 @@
 }
 
 .soja{
-    background-image: linear-gradient(#9df5cc,#03f769);
+    background-image: linear-gradient(#999104,#d3e327);
     color:rgb(9, 9, 9);
     display: flex;
     justify-content: center;
